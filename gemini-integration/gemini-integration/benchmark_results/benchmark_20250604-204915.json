@@ -1,0 +1,50 @@
+{
+  "total_images": 5,
+  "total_time": 1.7133893966674805,
+  "avg_time_per_image": 0.3426778793334961,
+  "success_count": 0,
+  "error_count": 5,
+  "details": [
+    {
+      "image_path": "crawler\\download\\images\\test_benchmark\\test_image_1.jpg",
+      "success": false,
+      "elapsed_time": 0.3892784118652344,
+      "response": {
+        "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyA1OsXeckdeWaYiG2OphYxl4UoM5qRXSWg"
+      }
+    },
+    {
+      "image_path": "crawler\\download\\images\\test_benchmark\\test_image_2.jpg",
+      "success": false,
+      "elapsed_time": 0.33124518394470215,
+      "response": {
+        "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyA1OsXeckdeWaYiG2OphYxl4UoM5qRXSWg"
+      }
+    },
+    {
+      "image_path": "crawler\\download\\images\\test_benchmark\\test_image_3.jpg",
+      "success": false,
+      "elapsed_time": 0.3303391933441162,
+      "response": {
+        "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyA1OsXeckdeWaYiG2OphYxl4UoM5qRXSWg"
+      }
+    },
+    {
+      "image_path": "crawler\\download\\images\\test_benchmark\\test_image_4.jpg",
+      "success": false,
+      "elapsed_time": 0.3355591297149658,
+      "response": {
+        "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyA1OsXeckdeWaYiG2OphYxl4UoM5qRXSWg"
+      }
+    },
+    {
+      "image_path": "crawler\\download\\images\\test_benchmark\\test_image_5.jpg",
+      "success": false,
+      "elapsed_time": 0.3269674777984619,
+      "response": {
+        "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyA1OsXeckdeWaYiG2OphYxl4UoM5qRXSWg"
+      }
+    }
+  ],
+  "estimated_cost": 0.0125
+}

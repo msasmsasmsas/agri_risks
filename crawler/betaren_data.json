@@ -1,0 +1,13 @@
+{
+    "diseases": {
+        "cereals": [],
+        "rapeseed": [],
+        "corn": []
+    },
+    "pests": {
+        "cereals": [],
+        "rapeseed": [],
+        "corn": []
+    },
+    "weeds": []
+}
